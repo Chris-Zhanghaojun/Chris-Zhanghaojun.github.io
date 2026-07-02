@@ -1,0 +1,57 @@
+---
+layout: home
+title: "Haojun Zhang CV"
+---
+
+<!-- 使用 HTML 标签居中图片 -->
+<p align="center">
+  <img src="/asset/chrisphoto.jpg" alt="Haojun Zhang" width="200" style="border-radius: 50%; border: 5px solid #f0f0f0;">
+</p>
+
+<h1 align="center">Haojun Zhang</h1>
+<p align="center">
+  📍 Guangzhou, China &nbsp;|&nbsp;
+  📧 <a href="mailto:993794144@qq.com">993794144@qq.com</a> &nbsp;|&nbsp;
+  📱 +86 189 2880 7116
+</p>
+
+---
+
+### 🎓 Education
+
+**Bachelor of Engineering in Computer Science and Technology**  
+*United International College (UIC)*  
+*Sep 2020 – Jun 2024*  
+- **GPA:** 3.18/4.0
+- **Honours:** President’s Honour Roll (2021/2022), Dean’s List (2020/2021)
+- **Relevant Coursework:** Data Structure and Algorithms, Operating Systems, Object-Oriented Programming, Database Management Systems, Computer Networks.
+
+---
+
+### 💻 Project Experience
+
+#### 🧠 Neural network-based Detecting Sacroiliac Joint Symptoms System
+*Mar 2023 – Jun 2023*
+- Engineered a Convolutional Neural Network (CNN) using **Python**, **TensorFlow**, and **Keras** to detect medical symptoms.
+- Processed and converted medical image data (`.nii.gz` to JPG), managing a dataset split into 70% training and 30% testing.
+- Model Architecture: 3 Convolutional layers, 2 Fully Connected layers, and Dropout regularization (Total Parameters: ~2.9M).
+
+#### 📊 Tourist Attractions Recommendation System
+*Sep 2021 – Dec 2021*
+- Developed a data pipeline to scrape tourist attraction data from websites using **Python** crawlers.
+- Utilized **Matplotlib** for data visualization and presented findings via a GUI interface.
+
+#### 💳 Database Application in Banking Management System
+*Sep 2021 – Dec 2021*
+- Designed and implemented a functional banking database system using **PHP** and **SQL**.
+- Created an HTML interface and designed an ER diagram to manage core banking entities (accounts, transactions).
+- Enabled secure data operations including login authentication and fund transfers.
+
+---
+
+### 💼 Skills & Interests
+
+- **Languages:** Mandarin (Native), Cantonese (Native), English (Fluent)
+- **Programming:** C/C++, Python, Java, PHP, SQL
+- **Frameworks & Tools:** TensorFlow, Keras, Microsoft Office
+- **Interests:** Table tennis, Badminton, eSports, Movies
