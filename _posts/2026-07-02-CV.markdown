@@ -5,7 +5,7 @@ title: "Haojun Zhang CV"
 
 <!-- 使用 HTML 标签居中图片 -->
 <p align="center">
-  <img src="/asset/chrisphoto.jpg" alt="Haojun Zhang" width="200" style="border-radius: 50%; border: 5px solid #f0f0f0;">
+  <img src="/asset/chrisphoto.jpg" alt="Haojun Zhang" width="200" style="border-radius: 50%; border: 5px solid #f0f0f0;"> 
 </p>
 
 <h1 align="center">Haojun Zhang</h1>
